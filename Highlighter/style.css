@@ -1,0 +1,13 @@
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    text-align: justify;
+}
+.highlight{
+    background-color:yellow;
+}
+#highlightBtn{
+    background-color:#e6eb9d;
+}
+#wordCount{
+    font-style: italic;
+}
